@@ -5,7 +5,7 @@ Esse projeto alimenta uma base de dados(Planilha Google) de forma automatica, id
 
 
 OBS:  
-Criar uma conta no Google Cloud;/n
+Criar uma conta no Google Cloud;
 Baixar as credenciais e substituir no file "Auth";
 Criar uma planilha no Google Sheets;
 Colocar o nome da página e planilha exatamente igual no projeto;
