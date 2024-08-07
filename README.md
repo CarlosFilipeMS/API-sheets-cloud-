@@ -7,8 +7,8 @@ Deixarei uma breve explicação de como configurar os serviços do Google e um p
 
 ## Passo a passo
 ### Google cloud:
-1- Depois de fazer o login com a sua conta Google no Cloud, você clica em NOVO PROJETO e nomeia o projeto;
-2- Adicionar as bibliotecas "Google Sheets API" e "Google Drive API" ao projeto;
+1- Depois de fazer o login com a sua conta Google no Cloud, você clica em NOVO PROJETO e nomeia o projeto;  
+2- Adicionar as bibliotecas "Google Sheets API" e "Google Drive API" ao projeto;  
 3- Com o projeto configurado, dentro dele você vai na parte de credenciais e cria uma "ID do cliente OAuth";
 4- Novamente na parte de credenciais você cira uma "conta de serviço". Com a conta criada, um e-mail vai ser gerado, ele será importante para o projeto;
 5- Com a conta de serviço criada você vai nas chaves e gera uma chave privada e baixa o arquivo da chave.
